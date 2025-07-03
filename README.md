@@ -13,4 +13,4 @@ Also, this cancer is the 10th most common, soooo in the medical field of researc
 ## Content
 - Jupyter Notebook with (almost) all the development of the project, its a little bit messy, but has a lot of testing, models and some comments.
 - The PDF's I used to backup my research and development, some of them have a medical approach and other some more of a Machine Learning, The combination of both is necessary to make the most complete work and get the quality necesary to help patients.
-- Models that I used for a final classification; They can be improve and I am working on it, but it's going to require some time.
+- Photos of patients (without faces for privacy law), diagrams of process and models structure, AUC-ROC curves and charts of data distribution.
